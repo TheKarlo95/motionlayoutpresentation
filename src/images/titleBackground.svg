@@ -1,0 +1,25 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 900 700"
+  height="700"
+  width="900">
+    <rect
+      x="0"
+      y="0"
+      height="500"
+      width="900"
+      style="fill: #512da8"
+    />
+    <rect
+      x="0"
+      y="500"
+      height="200"
+      width="900"
+      style="fill: #cccccc"
+    />
+    <circle
+      cx="800"
+      cy="500"
+      r="36"
+      style="fill: #ff4081" />
+</svg>

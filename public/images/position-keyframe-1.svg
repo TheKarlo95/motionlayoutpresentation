@@ -1,0 +1,49 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="300"
+  height="300"
+  viewBox="0 0 300 300">
+  <rect
+    x="1"
+    y="249"
+    height="50"
+    width="100"
+    style="fill:#008EB9;stroke:#000"
+  />
+  <rect
+    x="199"
+    y="1"
+    height="50"
+    width="100"
+    style="fill:#008EB9;stroke:#000"
+  />
+  <text
+    x="51"
+    y="274"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="white"
+    style="font-size:20px;">
+    Widget
+  </text>
+  <text
+    x="249"
+    y="26"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="white"
+    style="font-size:20px;">
+    Widget
+  </text>
+  <path
+    d="M80,248 220,52"
+    stroke="#000"
+    stroke-dasharray="20"
+    stroke-linecap="round"
+    stroke-width="2px"
+    />
+  <polygon
+    points="220,52 230,72 210,72"
+    transform="rotate(35 220 52)"
+  />
+</svg>
